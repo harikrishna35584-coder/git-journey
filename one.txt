@@ -1,3 +1,9 @@
 one
 111
+<<<<<<< HEAD
 hscgkasckabsk
+=======
+scbasbkdbaskb
+
+
+>>>>>>> main
